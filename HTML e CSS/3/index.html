@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="meu-id" class="minha-classe outra-classe"></div>
+
+  -- .div#meu-id.minha-clasee.minha-outra-classe{o conteúdo} --
+  <div class="div minha-clasee minha-outra-classe" id="meu-id">o conteúdo</div>
+
+  -- ul>li{conteudo}*3 --
+  <ul>
+    <li>conteudo</li>
+    <li>conteudo</li>
+  </ul>
+
+  -- ul>(li>a{conteudo $}[href="http://google.com/"])*2 --
+  <ul>
+    <li><a href="http://google.com/">conteudo 1</a></li>
+    <li><a href="http://google.com/">conteudo 2</a></li>
+  </ul>
+
+  -- div.minha-classe#home>h1{conteúdo qualquer}+p{com conteúdo qualquer}>a{clique aqui}+{para saber mais}*2 --
+  <div class="minha-classe" id="home">
+    <h1>conteúdo qualquer</h1>
+    <p>com conteúdo qualquer<a href="">clique aqui</a>
+      para saber mais
+      para saber mais
+    </p>
+  </div>
+
+  
+</body>
+</html>
