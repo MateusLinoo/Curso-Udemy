@@ -15,3 +15,8 @@ diversas tecnologías para me especializar tais como:
 - Hooks
 - Redux
 - Design Patterns
+
+Qualquer duvida ou sujestão para minha evolução
+na programação, me mande uma mensagem! 😁
+
+📩 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-malinouskas/)
